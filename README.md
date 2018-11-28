@@ -1,3 +1,3 @@
 # tribute-page
 
-html
+html , css
